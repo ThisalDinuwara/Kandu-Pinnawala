@@ -96,7 +96,6 @@ if(isset($_POST['add_to_cart'])){
 <?php include 'header.php'; ?>
 
 <div class="home-bg">
-   <img src=".\images\Raksha.webp" width="1550px">
 
    <section class="home">
 

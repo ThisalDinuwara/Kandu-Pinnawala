@@ -1,6 +1,10 @@
 @import url('components.css');
 
-
+.home-gb{
+   background: url(../images/Raksha.webp) no-repeat;
+   background-size: cover;
+   background-position: center;
+}
 
 .home-bg .home{
    display: flex;
