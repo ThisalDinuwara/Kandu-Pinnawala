@@ -96,15 +96,9 @@ if(isset($_POST['add_to_cart'])){
 <?php include 'header.php'; ?>
 
 <div class="home-bg">
+   <img src=".\images\Raksha.webp" width="1550px">
 
    <section class="home">
-
-      <div class="content">
-         <span>don't panic, go organice</span>
-         <h3>Reach For A Healthier You With Organic Foods</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto natus culpa officia quasi, accusantium explicabo?</p>
-         <a href="about.php" class="btn">about us</a>
-      </div>
 
    </section>
 
@@ -120,28 +114,28 @@ if(isset($_POST['add_to_cart'])){
          <img src="images/products/wood items.jpg" alt="">
          <h3>Wood Items</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=fruits" class="btn">fruits</a>
+         <a href="category.php?category=fruits" class="btn">Wood Items</a>
       </div>
 
       <div class="box">
          <img src="images/products/tshirts.png" alt="">
          <h3>Clothes</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=meat" class="btn">meat</a>
+         <a href="category.php?category=meat" class="btn">Clothes</a>
       </div>
 
       <div class="box">
-         <img src="images/products/" alt="">
-         <h3>vegitables</h3>
+         <img src="images/products/Arts.jpg" alt="">
+         <h3>Arts</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=vegitables" class="btn">vegitables</a>
+         <a href="category.php?category=vegitables" class="btn">Arts</a>
       </div>
 
       <div class="box">
-         <img src="images/cat-4.png" alt="">
-         <h3>fish</h3>
+         <img src="images/products/ceylone.jpg" alt="">
+         <h3>Spices & Tea</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=fish" class="btn">fish</a>
+         <a href="category.php?category=fish" class="btn">Spices & Tea</a>
       </div>
 
    </div>
@@ -183,12 +177,6 @@ if(isset($_POST['add_to_cart'])){
    </div>
 
 </section>
-
-
-
-
-
-
 
 <?php include 'footer.php'; ?>
 

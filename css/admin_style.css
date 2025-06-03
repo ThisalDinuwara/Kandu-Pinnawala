@@ -177,7 +177,7 @@
 }
 
 .placed-orders .box-container .box p span{
-   color:var(--green);
+   color: var(--green);
 }
 
 .placed-orders .box-container .box .drop-down{
@@ -252,16 +252,6 @@
 .messages .box-container .box p span{
    color:var(--green);
 }
-
-
-
-
-
-
-
-
-
-
 
 
 @media (max-width:768px){

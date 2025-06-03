@@ -1,10 +1,6 @@
 @import url('components.css');
 
-.home-bg{
-   background: url(../images/home-bg.jpg) no-repeat;
-   background-size: cover;
-   background-position: center;
-}
+
 
 .home-bg .home{
    display: flex;
@@ -55,6 +51,7 @@
    background-color: var(--white);
    box-shadow: var(--box-shadow);
    border-radius: .5rem;
+   display: flex;
 }
 
 .home-category .box-container .box img{

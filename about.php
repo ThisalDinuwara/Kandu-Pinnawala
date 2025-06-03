@@ -36,14 +36,14 @@ if(!isset($user_id)){
    <div class="row">
 
       <div class="box">
-         <img src="images/about-img-1.png" alt="">
+         <img src="images/products/traditional cap.jpg" alt="">
          <h3>why choose us?</h3>
          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, a quod, quis alias eius dignissimos pariatur laborum dolorem ad ullam iure, consequatur autem animi illo odit! Atque quia minima voluptatibus.</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
       <div class="box">
-         <img src="images/about-img-2.png" alt="">
+         <img src="images/products/shop.jpg" alt="">
          <h3>what we provide?</h3>
          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, a quod, quis alias eius dignissimos pariatur laborum dolorem ad ullam iure, consequatur autem animi illo odit! Atque quia minima voluptatibus.</p>
          <a href="shop.php" class="btn">our shop</a>
